@@ -1,6 +1,6 @@
 # Car Parking Space Counter
 
-The Car Parking Space Counter is a project that uses OpenCV to detect and count the number of available parking spaces in a given parking lot. This tool can be utilized in various applications such as smart parking systems, traffic management, and urban planning.
+The Car Parking Space Counter is a sophisticated system designed to streamline parking management using computer vision technology. Developed with OpenCV, this project offers real-time detection and counting of available parking spaces in parking lots. By leveraging image processing techniques, it aims to enhance urban parking efficiency, reduce congestion, and improve the overall parking experience for drivers.
 
 ## Features
 * Real-time Detection: Continuously monitors and updates the count of available parking spaces.
@@ -23,4 +23,8 @@ The Car Parking Space Counter is a project that uses OpenCV to detect and count 
 * Adjust parking space coordinates and detection parameters for optimal performance.
 
 ## Screenshots
+
 ![Screenshot](screenshots/parkingSpace1.png)
+
+* when some cars has left the parking slot
+![Screenshot2](screenshots/parkingSpace2.png)
