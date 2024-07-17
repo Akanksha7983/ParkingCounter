@@ -23,5 +23,4 @@ The Car Parking Space Counter is a project that uses OpenCV to detect and count 
 * Adjust parking space coordinates and detection parameters for optimal performance.
 
 ## Screenshots
-
-![Screenshot](C:\Users\hp\OneDrive\Pictures\Saved Pictures\Screenshots\parkingSpace1.png)
+![Screenshot](screenshots/parkingSpace1.png)
